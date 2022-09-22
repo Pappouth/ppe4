@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Menu principal"
+        android:id="@+id/mainMenuItem"/>
+    <item
+        android:title="Déconnexion"
+        android:id="@+id/deconnectionItem"/>
+</menu>

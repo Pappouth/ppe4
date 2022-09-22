@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43117706367",
+    "project_id": "ppe4-94d2d",
+    "storage_bucket": "ppe4-94d2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43117706367:android:725f03295683ef3369d34a",
+        "android_client_info": {
+          "package_name": "com.efficom.ppe4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43117706367-9t1vk74a68luc55v2e2s8ldjs72f4cel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYaxv9q-DoibIxsxdu47i5QILsJX8z4pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43117706367-9t1vk74a68luc55v2e2s8ldjs72f4cel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
